@@ -21,11 +21,7 @@ The project uses stock market data stored in **AAPL.csv**. The dataset includes:
    git clone https://github.com/mishraShilpa-28/stock-market-forecasting.git
    cd stock-market-forecasting
    ```  
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-3. Run the Jupyter Notebook:  
+2. Run the Jupyter Notebook:  
    ```bash
    jupyter notebook
    ```  
